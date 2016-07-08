@@ -1,0 +1,14 @@
+layout_spectrum: 0.8962989549618214
+typography_spectrum: 0.2192650460638106
+color:
+  brandStrength: 0.3879132035654038
+  lightness: 0.05844089202582836
+  saturation: 0.5257690316066146
+  rhythmicContrast: 0.41182290529832244
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+name: latropa
